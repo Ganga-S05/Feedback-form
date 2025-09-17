@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+.one {
+  text-align: center;
+}
+.two {
+  max-width: 600px;
+  margin:0 auto;
+}
+input, select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  
+}
+h3 {
+  margin-top: 20px;
+}
+.submit-btn {
+  margin-top: 20px;
+  padding:15px 15px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+.submit-btn:hover {
+  background-color:lightpink;
+  color: black;
+}
+
+.bot{
+  text-align: center;
+}
+body {
+  background-image: url('OIP.webp');
+  background-size: cover;      
+  background-repeat: no-repeat;
+  background-position: center; 
+  color: black;                
+}
+.one:hover{
+  color:red;
+}
